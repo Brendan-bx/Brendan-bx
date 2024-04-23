@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋 I'm Brendan I'm a web developer</h1>
 
 - 🔭 I’m currently working on **my portfolio**
@@ -25,5 +24,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-[![Brendan-bx's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kofassa)](https://github.com/anuraghazra/github-readme-stats)
-<img align="left" height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendan-bx&langs_count=8&theme=dark" alt=Brendan-bx />
