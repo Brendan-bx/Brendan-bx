@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋 I'm Brendan I'm a web developer</h1>
+<h1 align="center">Hi 👋 I'm Brendan I'm a devops enjoyer</h1>
 
 - 🔭 I’m currently working on **my portfolio**
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **DevOps Tools**
 - 📫 How to reach me **brendanbx@gmail.com**
 - 👨‍💻 All of my projects are available at **coming soon ;)**
 
